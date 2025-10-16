@@ -36,14 +36,6 @@ At the moment, I am an AI Research Scholarship Holder at Instituto de Pesquisas 
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deboramedeiros-corporate&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debora-costa-dev-qa/)  
